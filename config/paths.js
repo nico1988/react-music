@@ -53,6 +53,4 @@ module.exports = {
   publicUrl: getPublicUrl(resolveApp('package.json')),
   servedPath: './' + getServedPath(resolveApp('package.json')),
 };
-console.log("1111111111111111111")
-console.log(getServedPath(resolveApp('package.json')))
 
