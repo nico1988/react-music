@@ -100,5 +100,5 @@ app.get('/api/getCdInfo', function (req, res) {
 
 
 app.listen(9093, function () {
-  console.log('node端口打开的是 ')
+  console.log('node端口打开的是 ' + 9093)
 })
