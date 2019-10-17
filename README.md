@@ -1,8 +1,8 @@
 # React Music
-![预览1](/01pic.gif)
-![预览2](/02pic.gif)
-![预览3](/03pic.gif)
-![预览4](/04pic.gif)
+![预览1](./01pic.gif)
+![预览2](./02pic.gif)
+![预览3](./03pic.gif)
+![预览4](./04pic.gif)
 
 > 在慕课网学习 Vue.js 打造高级实战——音乐 App 了 但是自己之前的技术栈是react 所以用react 也写了一个
 

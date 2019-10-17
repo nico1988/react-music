@@ -98,7 +98,7 @@ app.get('/api/getCdInfo', function (req, res) {
 
 
 
-
-app.listen(9093, function () {
-  console.log('node端口打开的是 ')
+const port = 9093
+app.listen(port, function () {
+  console.log('node端口打开的是 ' + port)
 })

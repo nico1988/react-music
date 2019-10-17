@@ -10,6 +10,7 @@ import { observable ,action} from 'mobx'
 class TopList {
     @observable topList = {}
 
+
     @action.bound
     setTopList(topList){
         this.topList = topList

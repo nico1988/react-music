@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Route } from 'react-router-dom'
-import { autobind } from 'core-decorators'
+import { autobind } from 'core-decorators' // 自动绑定this
 import Slider from 'components/Slider'
 import Scroll from 'components/Scroll'
 import Loading from 'components/Loading'
